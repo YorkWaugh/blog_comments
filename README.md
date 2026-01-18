@@ -1,2 +1,2 @@
 # blog_comments
-Comments for https://yorkwaugh.github.io/
+Comments for https://blog.eclogues.dev/
